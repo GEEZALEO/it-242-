@@ -1,0 +1,11 @@
+C:\Users\GEEZALEO\source\repos\planet\planet\bin\Debug\netcoreapp3.1\planet.exe
+C:\Users\GEEZALEO\source\repos\planet\planet\bin\Debug\netcoreapp3.1\planet.deps.json
+C:\Users\GEEZALEO\source\repos\planet\planet\bin\Debug\netcoreapp3.1\planet.runtimeconfig.json
+C:\Users\GEEZALEO\source\repos\planet\planet\bin\Debug\netcoreapp3.1\planet.runtimeconfig.dev.json
+C:\Users\GEEZALEO\source\repos\planet\planet\bin\Debug\netcoreapp3.1\planet.dll
+C:\Users\GEEZALEO\source\repos\planet\planet\bin\Debug\netcoreapp3.1\planet.pdb
+C:\Users\GEEZALEO\source\repos\planet\planet\obj\Debug\netcoreapp3.1\planet.csprojAssemblyReference.cache
+C:\Users\GEEZALEO\source\repos\planet\planet\obj\Debug\netcoreapp3.1\planet.AssemblyInfoInputs.cache
+C:\Users\GEEZALEO\source\repos\planet\planet\obj\Debug\netcoreapp3.1\planet.AssemblyInfo.cs
+C:\Users\GEEZALEO\source\repos\planet\planet\obj\Debug\netcoreapp3.1\planet.dll
+C:\Users\GEEZALEO\source\repos\planet\planet\obj\Debug\netcoreapp3.1\planet.pdb
